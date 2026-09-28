@@ -1,4 +1,3 @@
-﻿# portfolio-first-css
 # Personal Portfolio Website
 
 ## 📌 About the Project
@@ -30,7 +29,7 @@ The main goals of this project are:
 
 ## 📂 Project Structure
 
-
+```text
 portfolio/
 │
 ├── index.html
@@ -38,7 +37,7 @@ portfolio/
 │
 └── portfolio/
     └── images/
-
+```
 
 ## 🌐 Website Sections
 
@@ -111,8 +110,9 @@ The website is hosted using GitHub Pages.
 
 The main page of the website is:
 
-
+```text
 index.html
+```
 
 GitHub Pages is configured to deploy the website from the main branch.
 
